@@ -11,6 +11,8 @@ To complement my study, I have been doing TryHackMe (THM) to practically learn m
 
 I've also been doing some Blue Team Labs Online (BTLO) to practically learn how to investigate and defend against cyber attacks. I'm apparently top 20% in BTLO, but I haven't done much at this stage. I will get more into BTLO over the next few months to ensure that I'm able to actually do the SOC Analyst role instead of just having the knowledge from videos (Udemy). 
 
+Another fun thing I've done is some CTF's, I haven't completely finished one yet but I have done OverTheWire's Bandit CTF to level 10 a few times. I've also saved the commands I used to a notepad to remember later on. At some point I aim to create a repository with commonly used commands for work / study / CTF's. 
+
 I passed my Security+ exam on 21/12/2021 and started studying for CySA+ by doing another Udemy course with Jason Dion again. I'm still studying this at the moment and expect to have finished the course and to take the exam sometime within the next 3-4 months. 
 
 During this time, I also decided to brush up more on my basic IT and networking knowledge, so when I have free time but not long enough to sit down for a solid chunk of time I've been going through the Network+ and A+ videos on Udemy by Mike Meyers. I really like how Mike Meyers teaches, he's a very visual teacher and explains everything very in-depth but also in lamens terms. 
