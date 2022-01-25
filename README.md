@@ -18,3 +18,8 @@ I passed my Security+ exam on 21/12/2021 and started studying for CySA+ by doing
 During this time, I also decided to brush up more on my basic IT and networking knowledge, so when I have free time but not long enough to sit down for a solid chunk of time I've been going through the Network+ and A+ videos on Udemy by Mike Meyers. I really like how Mike Meyers teaches, he's a very visual teacher and explains everything very in-depth but also in lamens terms. 
 
 Over the next few months I have set myself a goal to complete the CySA+ course and sit the exam, as well as to finish going through the entire Network+ and A+ video course (but not sit the exams). 
+
+**26/01/2022** - I sat down and wrote a timeline for study, giving myself a practical amount of time to learn and practice different programs over the next few months while still being able to spend time with family. 
+
+I watched a few "day in the life of a SOC Analyst" videos on Youtube, which really got me in the mood to learn more practically. I signed up to Splunk learning to do Splunk Fundamentals 1, which has now changed to a number of single-subject courses that break down specifc uses of Splunk into smaller video segments; Using Fields, Scheduling Reports and Alerts, etc. 
+
