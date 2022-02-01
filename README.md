@@ -1,5 +1,5 @@
 # Study
-My study journey from Detective Senior Constable to SOC Analyst, while trying to fit in work, two kids and my own life. 
+My study journey from Detective Senior Constable to Cyber Security Professional, while trying to fit in work, two kids and my own life. 
 
 **21/01/2022** - I decided in July, 2021 that I was going to work towards a career change into Cybersecurity. I didn't initially know what I wanted to do or any idea how to go about making the change, so I got in contact with a friend of my uncle who works in Cybersecurity in Dubai. He was absolutely amazing and spent time messaging and Skype calling me with advice and potential paths to take. I'm lucky that I spoke with him, because I nearly dropped $16k on a Monash Uni bootcamp that went for 24 weeks and I think only ended up getting you CompTIA Security+ and Network+.
 
