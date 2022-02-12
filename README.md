@@ -1,5 +1,5 @@
 # Study
-My study journey from Detective Senior Constable to Cyber Security Professional, while trying to fit in work, two kids and my own life. 
+My study journey from Detective Senior Constable to Cyber Security Professional, while trying to fit in work, two kids and my own life. I initially created this repository when I had the goal of attaining a SOC Analyst position, after researching further and networking, I've slightly changed my goal post and am aiming for a position as a GRC Consultant. 
 
 **21/01/2022** - I decided in July, 2021 that I was going to work towards a career change into Cybersecurity. I didn't initially know what I wanted to do or any idea how to go about making the change, so I got in contact with a friend of my uncle who works in Cybersecurity in Dubai. He was absolutely amazing and spent time messaging and Skype calling me with advice and potential paths to take. I'm lucky that I spoke with him, because I nearly dropped $16k on a Monash Uni bootcamp that went for 24 weeks and I think only ended up getting you CompTIA Security+ and Network+.
 
@@ -23,3 +23,6 @@ Over the next few months I have set myself a goal to complete the CySA+ course a
 
 I watched a few "day in the life of a SOC Analyst" videos on Youtube, which really got me in the mood to learn more practically. I signed up to Splunk learning to do Splunk Fundamentals 1, which has now changed to a number of single-subject courses that break down specifc uses of Splunk into smaller video segments; Using Fields, Scheduling Reports and Alerts, etc. 
 
+**12/02/2022** - While watching a few "day in the life of..." videos and seeing GRC Consultant roles advertised, I decided that I would slightly change my study goals to try to attain myself a position of GRC Consultant. I believe that my skills from Detective / Policing work would greatly help me to be an effective and valuable GRC Consultant for a Cyber Security company. 
+
+I am still continuing my practical study in the background (Network+, A+, THM, BTLO etc.), but am putting more attention to GRC related study; ISM, NIST CSF, ISO27001 etc.
